@@ -4,7 +4,7 @@ Apps by Fernando Conde, distributed with [Homebrew](https://brew.sh).
 
 ## Toolbelt
 
-Six menu bar utilities in one ~13 MB app for macOS 14+: hidden icons behind the notch, window switcher, clipboard history, window layouts, system monitor and Claude Code accounts. Signed with Developer ID and notarized by Apple. Site: https://toolbelt.oconde.dev
+Six menu bar utilities in one ~13 MB app for macOS 14+: hidden icons behind the notch, window switcher, clipboard history, window layouts, system monitor and Claude Code accounts. Signed with Developer ID and notarized by Apple. Site: https://toolbelt.oconde.dev · Source (GPL-3.0): https://github.com/nandobrazil/toolbelt
 
 ```bash
 brew install --cask nandobrazil/tap/toolbelt
