@@ -2,8 +2,7 @@ cask "toolbelt" do
   version "0.2.1"
   sha256 "c29e503beadf8ac023b474ae6d40397b5b1b36eaae797adfd3ec45e71f31f98e"
 
-  url "https://github.com/nandobrazil/toolbelt-releases/releases/download/v#{version}/Toolbelt-#{version}.dmg",
-      verified: "github.com/nandobrazil/toolbelt-releases/"
+  url "https://github.com/nandobrazil/toolbelt-releases/releases/download/v#{version}/Toolbelt-#{version}.dmg"
   name "Toolbelt"
   desc "Menu bar toolkit: hidden icons, window switcher, clipboard history and more"
   homepage "https://toolbelt.oconde.dev/"
@@ -16,7 +15,7 @@ cask "toolbelt" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Toolbelt.app"
 
