@@ -1,6 +1,6 @@
 cask "toolbelt" do
-  version "0.2.1"
-  sha256 "c29e503beadf8ac023b474ae6d40397b5b1b36eaae797adfd3ec45e71f31f98e"
+  version "0.2.2"
+  sha256 "89024ea736fb2934b880cc44b75c83650a0d0903abc19cee304e27e4ecbf8d76"
 
   url "https://github.com/nandobrazil/toolbelt-releases/releases/download/v#{version}/Toolbelt-#{version}.dmg"
   name "Toolbelt"
